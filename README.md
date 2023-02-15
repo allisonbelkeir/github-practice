@@ -1,2 +1,2 @@
-# github practice
+ github practice
  first github repository
