@@ -1,0 +1,6 @@
+﻿Variable Name,Description,Variable Type,Units
+Date Collected,The date that the small mammal was captured,date,NA
+Plot,Site that the small mammal capture occurred (1-20),string,NA
+Species,Two letter abbreviation of small mammal captured,string,NA
+Sex,"Sex of small mammal captured, left blank if not recorded",string,NA
+Weight,"Total weight of small mammal captured, left blank if not recorded; * indicates measurement device not calibrated",real,grams (g)
